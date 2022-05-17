@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://www.geekmi.news/__export/1613408123499/sites/debate/img/2021/02/15/the-legend-of-zelda_-xen-que-se-inspiro-shigeru-miyamoto-para-crear-la-trifuerza_-2_crop1613408096624.jpg_117894757.jpg");
+    background-size: 10rem;
+    height: 665px;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.uno {
+    border: 10pt;
+    text-align: center;
+    color: white;
+}
+
+.asa {
+    border-color: red;
+    text-align: center;
+}
+
+.dos {
+    border: 10px;
+    text-align: center;
+}
+.card-text {
+    color: black;
+}
+
+h2 {
+    color: goldenrod;
+    text-align: center;
+}
+
